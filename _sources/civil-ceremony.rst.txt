@@ -1,0 +1,17 @@
+Civil ceremony
+--------------
+
+We got married officially on a Zoom call by an officiant from
+the county on August 13, 2020. Due to COVID uncertainty, we've decided to
+defer celebrating in person with family and friends until it's safe to do so.
+
+Here are a few of the pictures from the civil ceremony! Photo credit to Agi Loring.
+
+.. image:: _static/WeddingPortrait.jpg
+   :alt: Wedding portrait
+
+.. image:: _static/ShowingOffRings.jpg
+   :alt: Showing off rings
+
+.. image:: _static/Ceremony.jpg
+   :alt: Ceremony

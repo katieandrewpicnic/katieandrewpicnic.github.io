@@ -1,0 +1,22 @@
+.. KatieAndrewPicnic documentation master file, created by
+   sphinx-quickstart on Sun Jul 12 14:09:35 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Katie and Andrew's wedding picnic
+=================================
+
+.. toctree::
+   :maxdepth: 2
+
+   what-to-bring
+   location-and-schedule
+   what-to-wear
+   action-items
+   gift-registry
+   civil-ceremony
+
+.. image:: _static/pic.jpg
+   :alt: Selfie overlooking Bryce Canyon
+
+We got married! Get ready to celebrate!
