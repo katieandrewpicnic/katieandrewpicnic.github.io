@@ -1,0 +1,32 @@
+.wy-nav-side {
+    background-image: url("../sidebar_crop2.jpg");
+    background-size: cover;
+}
+.wy-side-nav-search {
+    background-color: #332259;
+}
+.wy-nav-top {
+    background-color: #bf8969;
+}
+.wy-nav-top a:visited {
+    color: #ffffff;
+}
+.wy-menu-vertical a {
+    color: #332259;
+}
+.wy-side-nav-search a:visited {
+    color: #ffffff;
+}
+a {
+    color: #332259;
+}
+a:visited {
+    color: #6a4ea6;
+}
+html {
+    font-size: 18px;
+}
+.wy-menu-vertical a:hover {
+    background-color:#c9dbf2;
+    cursor:pointer
+}
